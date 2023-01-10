@@ -123,7 +123,7 @@ footer p a {
 }*/
 
 .category-list .category:hover .article-count {
-    color: #0077CC;
+    color: #0896FC;
 }
 
 .category-list .category:focus .article-count, .category-list .category:active .article-count {
@@ -177,7 +177,7 @@ footer p a {
 
 .category-list .category .article-count {
   margin-bottom: 0;
-  color: #0077CC;
+  color: #0896FC;
   transition: color 0.2s ease-in-out;
 }
 
@@ -452,34 +452,13 @@ footer p a {
 }
 
 @media screen and (min-width: 1025px) {
-  #docsSearch::before {
-    background-image: none;
-    background-repeat: no-repeat;
-    background-size: cover;
-    bottom: 0;
-    content: "";
-    height: 100%;
-    position: absolute;
-    left: 5%;
-    top: 0;
-    transform: translateX(-50%);
-    width: 515px;
-    transition: left 0.2s;
-  }
-
-  #docsSearch::after {
-    background-image: none;
-    background-repeat: no-repeat;
-    background-size: cover;
-    bottom: 0;
-    content: "";
-    height: 100%;
-    position: absolute;
-    left: 95%;
-    top: 0;
-    transform: translateX(-50%);
-    width: 515px;
-    transition: left 0.2s;
+  #docsSearch {
+    height: 240px;
+    background-image: url('https://cdn.jsdelivr.net/gh/swdotcom/docs@main/hero.png');
+    background-position: left bottom, right bottom;
+    background-size: auto 270px, auto 270px;
+    background-repeat: no-repeat, no-repeat;
+    margin-bottom: 50px;
   }
 
   #contentArea::before {
@@ -696,7 +675,8 @@ input[type=submit] {
 
 @media screen and (min-width: 1025px) {
   #searchBar button {
-    background-color: #0896FC;
+    background-color: white;
+    color: #0265ab;
     border-radius: 4px;
     border: none;
     font-size: 17px;
@@ -707,7 +687,7 @@ input[type=submit] {
     transition: all 0.2s ease-in-out;
   }
   #searchBar button:hover, #searchBar button:active {
-    background: #0388E8;
+    background: white;
   }
 }
 
@@ -809,7 +789,7 @@ a:hover {
 }
 
 #fullArticle a strong {
-  color: #0077CC;
+  color: #0896FC;
 }
 
 #fullArticle li {
@@ -963,7 +943,7 @@ a:hover {
   width: 50px;
   height: 4px;
   left: 0;
-  background: #404996;
+  background: #0896FC;
 }
 
 .articleList li a:hover span {
@@ -1016,7 +996,7 @@ a:hover {
 }
 
 #sidebar .nav-list a:hover {
-  color: #0077CC;
+  color: #0896FC;
 }
 
 #sidebar .nav-list .active a,
@@ -1042,7 +1022,7 @@ a:hover {
 }
 
 #sidebar form .search-query {
-   border: 1px solid #A5B2BD;
+   border: 1px solid #e9ecee;
    border-radius: 5px;
    height: 42px;
    font-size: 14px;
@@ -1051,6 +1031,7 @@ a:hover {
 #categoryHead .sort select {
   font-size: 12px;
   height: 28px;
+  border: 1px solid #e9ecee;
 }
 
 #categoryHead .sort {
@@ -1120,7 +1101,7 @@ a:hover {
 }
 
 #fullArticle strong a {
-  color: #0077CC;
+  color: #0896FC;
 }
 
 .articleFoot p, .articleFoot time {
@@ -1316,7 +1297,7 @@ strong, b {
 
 #contactModal input[type=submit].btn {
   width: 100%;
-  background: #404996;
+  background: #0896FC;
   height: 52px;
   transition: all 0.2s ease-in-out;
 }
@@ -1437,7 +1418,7 @@ strong, b {
   width: auto;
   height: 52px;
   min-width: 150px;
-  background: #404996;
+  background: #0896FC;
   transition: all 0.2s ease-in-out;
 }
 
