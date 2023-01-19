@@ -3,7 +3,6 @@
 body {
   font-family: Graphik, Helvetica, Arial, sans-serif;
   -webkit-font-smoothing: antialiased;
-  background-image: url('https://d2x2losda9vsjs.cloudfront.net/docs/assets/2019/docs-brush-top.png'), url('https://d2x2losda9vsjs.cloudfront.net/docs/assets/2019/docs-brush-bottom.png');
   background-repeat: no-repeat, no-repeat;
   background-position: 0 700px, 100% 90%;
   background-size: 350px 350px, 350px 350px;
