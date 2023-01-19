@@ -456,7 +456,7 @@ footer p a {
     height: 240px;
     background-image: url('https://cdn.jsdelivr.net/gh/swdotcom/docs@main/hero.png');
     background-position: left bottom, right bottom;
-    background-size: auto;
+    background-size: cover;
     background-repeat: no-repeat, no-repeat;
     margin-bottom: 50px;
   }
