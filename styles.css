@@ -218,64 +218,20 @@ footer p a {
 
 /* Category: icons */
 
-#category-832 {
-  background-image: url('https://d2x2losda9vsjs.cloudfront.net/docs/assets/2019/docs-icon-logo-mark.jpg');
+#category-5 {
+  background-image: url('https://cdn.jsdelivr.net/gh/swdotcom/docs@main/assets/getting-started.png');
 }
 
-#category-108 {
-  background-image: url('https://d2x2losda9vsjs.cloudfront.net/docs/assets/2019/docs-icon-tools.jpg');
+#category-14 {
+  background-image: url('https://cdn.jsdelivr.net/gh/swdotcom/docs@main/assets/metrics.png');
 }
 
-#category-465 {
-  background-image: url('https://d2x2losda9vsjs.cloudfront.net/docs/assets/2019/docs-icon-reports.jpg');
+#category-18 {
+  background-image: url('https://cdn.jsdelivr.net/gh/swdotcom/docs@main/assets/plugins.png');
 }
 
-#category-74 {
-  background-image: url('https://d2x2losda9vsjs.cloudfront.net/docs/assets/2019/docs-icon-copy-email.jpg');
-}
-
-#category-23 {
-  background-image: url('https://d2x2losda9vsjs.cloudfront.net/docs/assets/2019/docs-icon-conversations.jpg');
-}
-
-#category-230 {
-  background-image: url('https://d2x2losda9vsjs.cloudfront.net/docs/assets/2019/docs-icon-productivity.jpg');
-}
-
-#category-24 {
-  background-image: url('https://d2x2losda9vsjs.cloudfront.net/docs/assets/2019/docs-icon-user-settings.jpg');
-}
-
-#category-604 {
-  background-image: url('https://d2x2losda9vsjs.cloudfront.net/docs/assets/2019/docs-icon-mobile-apps.jpg');
-}
-
-#category-234 {
-  background-image: url('https://d2x2losda9vsjs.cloudfront.net/docs/assets/2019/docs-icon-integrations.jpg');
-}
-
-#category-1205 {
-  background-image: url('https://d2x2losda9vsjs.cloudfront.net/docs/assets/2019/docs-icon-start-with-beacon.jpg');
-}
-
-#category-1358 {
-  background-image: url('https://d2x2losda9vsjs.cloudfront.net/docs/assets/2019/docs-icon-messages.jpg');
-}
-
-#category-1211 {
-  background-image: url('https://d2x2losda9vsjs.cloudfront.net/docs/assets/2019/docs-icon-live-chat.jpg');
-}
-
-#category-41 {
-  background-image: url('https://d2x2losda9vsjs.cloudfront.net/docs/assets/2019/docs-icon-working-with-docs.jpg');
-}
-
-#category-126 {
-  background-image: url(https://d2x2losda9vsjs.cloudfront.net/docs/assets/2019/docs-icon-managing-docs.jpg);
-}
-
-#category-217 {
-  background-image: url(https://d2x2losda9vsjs.cloudfront.net/docs/assets/2019/docs-icon-formatting-content.jpg);
+#category-40 {
+  background-image: url('https://cdn.jsdelivr.net/gh/swdotcom/docs@main/assets/security-and-privacy.png');
 }
 
 .nav-collapse .nav {
@@ -432,7 +388,7 @@ footer p a {
 @media screen and (max-width: 1024px) {
   #docsSearch {
     height: 240px;
-    background-image: url('https://cdn.jsdelivr.net/gh/swdotcom/docs@main/hero.png');
+    background-image: url('https://cdn.jsdelivr.net/gh/swdotcom/docs@main/assets/hero.png');
     background-position: left bottom, right bottom;
     background-size: auto 270px, auto 270px;
     background-repeat: no-repeat, no-repeat;
@@ -453,7 +409,7 @@ footer p a {
 @media screen and (min-width: 1025px) {
   #docsSearch {
     height: 240px;
-    background-image: url('https://cdn.jsdelivr.net/gh/swdotcom/docs@main/hero.png');
+    background-image: url('https://cdn.jsdelivr.net/gh/swdotcom/docs@main/assets/hero.png');
     background-position: left bottom, right bottom;
     background-size: cover;
     background-repeat: no-repeat, no-repeat;
