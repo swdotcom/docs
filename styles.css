@@ -234,6 +234,14 @@ footer p a {
   background-image: url('https://cdn.jsdelivr.net/gh/swdotcom/docs@main/assets/security-and-privacy.png');
 }
 
+#category-60 {
+  background-image: url('https://cdn.jsdelivr.net/gh/swdotcom/docs@main/assets/configurations.png');
+}
+
+#category-70 {
+  background-image: url('https://cdn.jsdelivr.net/gh/swdotcom/docs@main/assets/objectives.png');
+}
+
 .nav-collapse .nav {
   margin-top: 40px;
 }
