@@ -242,6 +242,10 @@ footer p a {
   background-image: url('https://cdn.jsdelivr.net/gh/swdotcom/docs@main/assets/objectives.png');
 }
 
+#category-90 {
+  background-image: url('https://cdn.jsdelivr.net/gh/swdotcom/docs@main/assets/github-copilot.png');
+}
+
 .nav-collapse .nav {
   margin-top: 40px;
 }
