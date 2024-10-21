@@ -882,6 +882,10 @@ a:hover {
   letter-spacing: 0.7px;
 }
 
+#fullArticle table p {
+  margin-bottom: 0.5em;
+}
+
 #fullArticle dt {
   padding: 0;
   width: 26px;
