@@ -243,7 +243,11 @@ footer p a {
 }
 
 #category-90 {
-  background-image: url('https://cdn.jsdelivr.net/gh/swdotcom/docs@main/assets/github-copilot.png');
+  background-image: url('https://cdn.jsdelivr.net/gh/swdotcom/docs@main/assets/ai-impact.png');
+}
+
+#category-142 {
+  background-image: url('https://cdn.jsdelivr.net/gh/swdotcom/docs@main/assets/integrations.svg');
 }
 
 .nav-collapse .nav {
